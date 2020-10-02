@@ -1,6 +1,7 @@
 Canard colvert
 Nette rousse
 Canard pilet
+<<<<<<< HEAD
 Canard chipeau
 Canard siffleur
 Sarcelle d'hiver
@@ -9,3 +10,6 @@ chevalier culblanc
 chevalier aboyeur
 courlis corlieu
 courlis cendré
+=======
+Canard chipeau
+>>>>>>> parent of b17c3e7... Update oiseaux.txt
